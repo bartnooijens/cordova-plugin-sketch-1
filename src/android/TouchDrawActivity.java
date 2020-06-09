@@ -67,7 +67,7 @@ public class TouchDrawActivity extends Activity {
     public String toolbarTextColor;
 
     public JSONObject textValues;
-    public String backBtn = "Back";
+    public String backBtn = "Annuleer";
     public String clearBtn = "Clear";
     public String clearTitle = "Clear canvas";
     public String clearText = "Clear complete canvas?";
