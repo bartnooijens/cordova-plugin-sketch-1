@@ -67,13 +67,13 @@ public class TouchDrawActivity extends Activity {
     public String toolbarTextColor;
 
     public JSONObject textValues;
-    public String backBtn = "Annuleer";
+    public String backBtn = "Terug";
     public String clearBtn = "Clear";
     public String clearTitle = "Clear canvas";
     public String clearText = "Clear complete canvas?";
     public String colorBtn = "Stroke color";
-    public String strokeBtn = "Stroke width";
-    public String saveBtn = "Save";
+    public String strokeBtn = "Stroke width ";
+    public String saveBtn = "Opslaan";
 
     private Paint mPaint;
     private int mStrokeWidth = 4;
